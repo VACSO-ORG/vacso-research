@@ -6,6 +6,10 @@ Working documents from a working lab. The reactor is real, the hydrogen is real,
 
 ## What's here
 
+### Systems
+
+- **[`ARCHITECTURE.md`](ARCHITECTURE.md)** — system overview tying the brand portfolio, AI cockpit, and lab into one operator surface. Mermaid system map, ASCII data-flow, key engineering trade-offs. **Start here if you're skimming.**
+
 ### Chemistry
 
 - **[`chemistry/REDUCTION-CHEMISTRY.md`](chemistry/REDUCTION-CHEMISTRY.md)** — the full menu of green iron reduction routes (15 of them), the chemistry problems each one faces, and why H₂-DRI wins the next decade. **Read first.**
