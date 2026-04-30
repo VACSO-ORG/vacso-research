@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you reference these notes, please cite them as below."
+title: "VACSO Research — H₂-DRI Engineering and Science Notes"
+type: dataset
+authors:
+  - family-names: Osborne
+    given-names: Oscar
+    email: oscar@vacso.com.au
+    affiliation: VACSO
+url: "https://github.com/VACSO-ORG/vacso-research"
+repository-code: "https://github.com/VACSO-ORG/vacso-research"
+date-released: "2026-04-30"
+keywords:
+  - hydrogen
+  - direct-reduction
+  - green-steel
+  - metallurgy
+  - decarbonization
+license: CC-BY-4.0
