@@ -1,5 +1,7 @@
 # VACSO Research
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Last commit](https://img.shields.io/github/last-commit/VACSO-ORG/vacso-research)](https://github.com/VACSO-ORG/vacso-research/commits/main)
+
 **Public engineering and science notes from VACSO's hydrogen direct reduction of iron (H₂-DRI) program.**
 
 Working documents from a working lab. The reactor is real, the hydrogen is real, the literature reviews are mine. Posted publicly because (a) science benefits from being reviewed in the open, and (b) anyone considering a meeting with VACSO can read what's actually under the hood before they take it.
